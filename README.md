@@ -3,101 +3,190 @@
 <a href="mailto:eebrahimeedris@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ibrahimidris"><img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
----
+# Ibrahim Idris 👋  
+**Cybersecurity Analyst | SOC Operations | Threat Intelligence | Security Research**
 
-I'm a **Cybersecurity Specialist** with hands-on experience in **SOC architecture, detection engineering, penetration testing, and incident response**.  
-Founder & Security Architect of **CentricSOC**, where I design scalable SOC solutions for SMEs.  
+I am a cybersecurity analyst and security researcher with hands-on experience across **phishing investigations, penetration testing, SOC operations, threat intelligence, and security tooling**. I began my cybersecurity journey early and have since focused on building **practical, real-world skills** through labs, independent research, client work, and documented security projects.
 
-Highlights:  
-- Discovered and disclosed a **valid (duplicate) critical bug** on TikTok’s web server.  
-- Hold a **Cisco Cybersecurity certificate** and multiple practical labs from platforms like TryHackMe and LetsDefend.  
-- Currently working as a **Cyber Security Analyst** at **Zuhsyn Innovations Limited**.  
-
-Always learning. Always building. Always defending.  
+My primary interest lies in **Security Operations Center (SOC) analysis**, where I analyze threats, validate alerts, build detections, and translate security findings into actionable response strategies.
 
 ---
 
-### Objective
-To leverage my passion for cybersecurity and hands-on experience in **threat detection, incident response, and secure development** to contribute to real-world security projects.  
-My focus: **SOC operations, Blue Team defense, and building detection pipelines that help SMEs stay secure.**
+## Core Focus Areas
+- Security Operations Center (SOC) Analysis  
+- Phishing & Email Threat Investigations  
+- Threat Intelligence & IOC Analysis  
+- Detection Engineering   
+- Incident Response & Playbook Development  
+- Web Application Security & Penetration Testing  
+
+## Technologies, Platforms & Security Tools
+
+I have hands-on experience and practical exposure to a wide range of **security operations, threat intelligence, detection engineering, and offensive security tools**, gained through real projects, labs, and documented investigations.
 
 ---
 
-### Skills
-
-| Skill                                      | Associated Project |
-|-------------------------------------------|---------------------|
-| SOC Architecture & Detection Pipelines    | [CentricSOC Project](#) |
-| SIEM Implementation & Log Analysis        | [Splunk & ELK Lab](#) |
-| Incident Response & Case Management       | [SOC Automation Lab](#) |
-| Security Automation (SOAR)                | [Shuffle + Cortex + TheHive Playbooks](#) |
-| Network Traffic Monitoring & Attack Detection | [Detection Lab](#) |
-| Vulnerability Assessment & Penetration Testing | [Web App Pentest Report](#) |
-| Secure SDLC & Threat Modeling             | [Zuhsyn Edubox Threat Model](#) |
-| Threat Hunting & Log Correlation          | [LetsDefend SIEM Challenges](#) |
-| Scripting & Automation for Security       | [Python Security Tools](#) |
+### SIEM & Security Monitoring
+- **SIEM Platforms:**  
+  - Splunk Enterprise (dashboards, SPL, detections)  
+  - Wazuh (SIEM/XDR)  
+- Log ingestion, normalization, IOC correlation, alert triage
 
 ---
 
-## Tools
-
-### Network Monitoring & Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-000000?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Incident Response & Automation
-<div>
-    <img src="https://img.shields.io/badge/-TheHive-FFCC00?&style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Cortex-2C3E50?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Shuffle_SOAR-005571?&style=for-the-badge&logoColor=white" />
-</div>
-
-### 📊 SIEM & Log Management
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ELK_Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LetsDefend-00B86B?&style=for-the-badge&logoColor=white" />
-</div>
-
-### Pentesting & Development
-<div>
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF7139?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-04B7A9?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-FFD43B?&style=for-the-badge&logo=python&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+### SOAR & Incident Response Platforms
+- **SOAR Tools:**  
+  - Shuffle (security automation & playbooks)  
+  - Cortex XSOAR (incident response workflows)  
+  - TheHive (case management & investigations)  
+  - Microsoft Chronicle (exposure & conceptual workflows)  
+- Incident lifecycle management and response playbook design
 
 ---
 
-## Certifications
-
-<div>
-    <img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Certificate-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_(In_Progress)-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CompTIA_Security+_(Training_Completed)-E62A2E?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CEH_(Training_Completed)-AA0000?&style=for-the-badge&logoColor=white" />
-</div>
-
----
-
-## Projects
-
-| Project Title | Description | Tools & Skills |
-|---------------|-------------|----------------|
-| **CentricSOC Project** | Designed SOC architecture and detection pipelines for SMEs, focusing on scalable security monitoring. | Wazuh, Splunk, Suricata |
-| **Splunk SOC Lab** | Built a mini SOC lab with Splunk for log ingestion, alerting, and dashboards. Simulated brute-force & lateral movement. | Splunk, Sysmon, Sigma Rules |
-| **SOC Automation Lab** | Automated alert triage and incident workflows using Shuffle, TheHive, and Cortex. Built playbooks for response. | SOAR, IR Playbooks |
-| **ELK SIEM Setup** | Installed and configured Elasticsearch, Logstash, Kibana for centralized log collection & anomaly detection. | ELK Stack, Parsing, Dashboards |
-| **Detection Lab** | Simulated enterprise attacks (DoS, ARP spoofing, Mimikatz) and monitored with IDS/IPS & SIEM. | Suricata, Zeek, Wireshark |
-| **Web Application Pentest** | Conducted penetration testing on DVWA, Juice Shop, and APIs. Reported a **critical bug** on TikTok (validated duplicate). | Burp Suite, OWASP ZAP |
-| **Threat Model Report (Edubox)** | Built a STRIDE-based threat model for a SaaS EdTech app, identifying threats and mitigations. | STRIDE, OWASP |
-| **Python Security Tools** | Developed scripts for DDoS testing (educational), log parsing, and automation. | Python, Networking |
-| **LetsDefend SIEM Challenges** | Completed investigations of phishing, brute force, and malware alerts. | LetsDefend, SOC Playbooks |
+### Threat Detection & Network Security
+- **IDS / IPS:**  
+  - Suricata  
+  - Snort  
+- **Firewalls & Network Security:**  
+  - pfSense  
+- Network traffic inspection and rule-based detection
 
 ---
 
- **Let’s Connect**  
- [LinkedIn](https://www.linkedin.com/in/ibrahim-idris-b5712a371) | [GitHub](https://github.com/ibrahimidris) | 📧 eebrahimeedris@gmail.com  
+### Threat Intelligence & Analysis
+- VirusTotal (URL, file, and infrastructure reputation)  
+- ANY.RUN (sandbox analysis & behavioral validation)  
+- URLScan.io, WHOIS, DNS & infrastructure enrichment  
+- MITRE ATT&CK Framework (mapping, detection alignment)
+
+---
+
+### Offensive Security & Web Application Testing
+- Burp Suite (web proxy, request analysis, vulnerability testing)  
+- OWASP ZAP (web application security testing)  
+- WebGoat (OWASP Top 10 practice labs)  
+- File upload testing, injection testing, misconfiguration analysis
+
+---
+
+### Endpoint & EDR (Conceptual & Exposure)
+- CrowdStrike Falcon (EDR concepts, detection logic understanding)
+- Endpoint telemetry awareness and alert context analysis
+
+---
+
+### Operating Systems & Platforms
+- Linux (Ubuntu, Kali Linux)  
+- Windows (security event awareness & log concepts)
+
+---
+
+### Networking & Traffic Analysis
+- Wireshark (packet capture and protocol analysis)
+- Firewall rule testing and traffic filtering
+
+---
+
+### Development, Scripting & Documentation
+- Git & GitHub (project documentation, version control)
+- CSV-based data handling for SIEM ingestion
+- Technical writing & SOC documentation
+- Markdown & Mermaid diagrams
+
+---
+
+## Tool Philosophy
+I use tools as **decision-support systems**, not decision-makers.  
+My focus is on:
+- Correct interpretation of alerts  
+- Reducing false positives  
+- Aligning detections to attacker behavior  
+- Translating findings into response actions
+
+
+---
+
+## Featured & Notable Work
+
+### Phishing Threat Intelligence, Detection & Response
+A full SOC-style investigation of a real-world phishing campaign impersonating Google Security Alerts.
+
+**Highlights:**
+- Email header analysis (SPF, DKIM, DMARC)
+- Sandbox validation with analyst-driven interpretation
+- Threat intelligence enrichment (VirusTotal)
+- MITRE ATT&CK mapping
+- SOC-style Splunk dashboards
+- Detection logic and incident response playbooks
+
+👉 **Repository:**  
+[Phishing Threat Intelligence & Detection Project](https://github.com/Ibrahim-Idris1/Phishing-Email-Analysis-Project)
+
+---
+
+### Penetration Testing & Web Security
+- Performed security testing on multiple web applications
+- Identified and validated client-side injection vulnerabilities
+- Discovered a **valid (duplicate) critical bug** on TikTok’s web infrastructure
+- Experience testing file upload functionality, JavaScript injection, and misconfigurations
+
+---
+
+### SOC & Blue Team Projects
+- Built SOC dashboards using log data and IOCs
+- Created correlation logic for phishing-related indicators
+- Practiced alert triage and incident documentation
+- Designed detection-to-response workflows aligned with MITRE ATT&CK
+
+---
+
+### Security Labs & Learning Projects
+- OWASP Top 10 vulnerability analysis using WebGoat
+- Network traffic inspection using Wireshark
+- Firewall configuration and testing on Linux
+- Log analysis and normalization exercises
+
+
+---
+
+## Community & Leadership
+- Founder / Lead at a small cybersecurity-focused startup
+- Experience teaching and mentoring students in cybersecurity
+- Content creator focused on cybersecurity awareness and learning
+- Campus Ambassador (Cowrywise)
+
+---
+
+## Current Focus
+- SOC analyst skill development
+- Detection engineering & alert logic
+- Email security & phishing-resistant controls
+- Threat hunting fundamentals
+- Completing projects before starting new ones (discipline & depth)
+
+---
+
+## How I Think About Security
+I approach cybersecurity with an analyst mindset:
+- Tools assist — **judgement decides**
+- Detection without response is incomplete
+- False positives must be investigated, not ignored
+- Documentation is as important as detection
+
+---
+
+## 🤝 Let’s Connect
+I am open to **SOC analyst roles, internships, scholarships, mentorship, and collaborative projects**.
+
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/ibrahim-idris-b5712a371/
+- 📧 **Email:**  
+  ibrahimidris.security@gmail.com *(update if needed)*
+
+---
+
+## 📌 Personal Statement
+> “I don’t just want to find vulnerabilities — I want to understand threats, detect them early, and respond effectively.”
+
+I am committed to continuous learning and building security solutions that are **practical, ethical, and aligned with real SOC environments**.
