@@ -125,6 +125,29 @@ A full SOC-style investigation of a real-world phishing campaign impersonating G
 
 ---
 
+### **Automated Brute Force Detection & Response (SIEM + SOAR)**
+
+Designed and implemented a **real-world SOAR workflow** showing how a **Small-to-Medium Enterprise (SME)** can achieve **enterprise-grade security automation** using free and open-source tools.
+
+**What this project demonstrates:**
+- SSH brute-force **detection using Splunk SIEM**
+- Automated alert ingestion via **Shuffle SOAR**
+- Threat intelligence enrichment (AbuseIPDB)
+- **Automatic case creation and management in TheHive**
+- End-to-end SOC workflow: **Detect → Enrich → Case → Respond**
+
+**Key impact:**
+- Time-to-detection: **< 10 minutes**
+- Automated triage & enrichment
+- SOC-ready investigation workflow tailored for **resource-constrained SMEs**
+
+**Technologies:**  
+Splunk (SIEM), Shuffle (SOAR), TheHive (Case Management), Linux Auth Logs, AbuseIPDB
+
+🔗 **Repository:**  
+[SME-SOAR-Blueprint – Automated Brute Force Detection & Response](https://github.com/Ibrahim-Idris1/mini-soc)
+
+
 ### Penetration Testing & Web Security
 - Performed security testing on multiple web applications
 - Identified and validated client-side injection vulnerabilities
