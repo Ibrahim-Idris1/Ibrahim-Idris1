@@ -1,215 +1,130 @@
-### 👋 Hi, I'm Ibrahim Idris
-<a href="https://www.linkedin.com/in/ibrahim-idris-b5712a371/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:eebrahimeedris@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ibrahimidris"><img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<div align="center">
 
-# Ibrahim Idris 👋  
-**Cybersecurity Analyst | SOC Operations | Threat Intelligence | Security Research**
+# Ibrahim Idris
 
-I am a cybersecurity analyst and security researcher with hands-on experience across **phishing investigations, penetration testing, SOC operations, threat intelligence, and security tooling**. I began my cybersecurity journey early and have since focused on building **practical, real-world skills** through labs, independent research, client work, and documented security projects.
+### SOC Analyst · Threat Detection · Incident Response · Cybersecurity Educator
 
-My primary interest lies in **Security Operations Center (SOC) analysis**, where I analyze threats, validate alerts, build detections, and translate security findings into actionable response strategies.
+4+ years turning security noise into actionable intelligence, and building SOC pipelines that detect threats early and respond with confidence.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-idris-b5712a371/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimidris.security@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibrahim-Idris1)
 
-## Core Focus Areas
-- Security Operations Center (SOC) Analysis  
-- Phishing & Email Threat Investigations  
-- Threat Intelligence & IOC Analysis  
-- Detection Engineering   
-- Incident Response & Playbook Development  
-- Web Application Security & Penetration Testing  
-
-## Technologies, Platforms & Security Tools
-
-I have hands-on experience and practical exposure to a wide range of **security operations, threat intelligence, detection engineering, and offensive security tools**, gained through real projects, labs, and documented investigations.
+</div>
 
 ---
 
-### SIEM & Security Monitoring
-- **SIEM Platforms:**  
-  - Splunk Enterprise (dashboards, SPL, detections)  
-  - Wazuh (SIEM/XDR)  
-- Log ingestion, normalization, IOC correlation, alert triage
+## About
+
+Cybersecurity is not just a career for me, it is a passion I build on every day.
+
+My background spans **Ethical Hacking, Governance, Risk & Compliance (GRC), Cloud Security and Security Architecture**, but **Security Operations** is where I planted my flag. With **over 4 years of hands-on experience as a SOC Analyst**, I specialize in threat detection, incident response, and building SOC pipelines that give organizations the visibility and structure to detect threats early and respond with confidence.
+
+I work daily across **Splunk, Microsoft Sentinel, Wazuh, Azure and Wireshark**, monitoring environments, investigating alerts, and turning noise into actionable intelligence. Cloud security is a growing part of my work: as organizations move to the cloud, I help make sure that move does not become greater exposure.
+
+Open to collaboration on security projects and research.
 
 ---
 
-### SOAR & Incident Response Platforms
-- **SOAR Tools:**  
-  - Shuffle (security automation & playbooks)  
-  - Cortex XSOAR (incident response workflows)  
-  - TheHive (case management & investigations)  
-  - Microsoft Chronicle (exposure & conceptual workflows)  
-- Incident lifecycle management and response playbook design
+## Featured Projects
+
+### ☁️ Azure Live-Fire SOC (Latest)
+A live-fire SOC exercise on Microsoft Azure: intentionally vulnerable Linux and Windows endpoints, vetted community attackers under a signed Rules of Engagement, and a two-analyst blue team hunting, detecting and responding in real time against unpredictable traffic. Infrastructure and detections are defined as code.
+
+- **Platform:** Microsoft Sentinel and Log Analytics on Azure, with LimaCharlie EDR
+- **Telemetry:** Windows Security Events, Sysmon, PowerShell Script Block Logging, Linux auditd and Syslog
+- **Infrastructure as Code:** Terraform, with GitHub Actions validating every change
+- **Detection as Code:** 6 KQL analytics rules mapped to MITRE ATT&CK, 5 of which triggered during the exercise
+- **Threat hunting:** 10 documented hunts covering SSH and RDP brute force, cron persistence and new service installs
+- **Validation:** detection coverage tested with Atomic Red Team
+- **Exercise window:** October 12-23, 2026, concluding with a documented after-action report
+
+🔗 **Repository:** [azure-live-fire-soc](https://github.com/Ibrahim-Idris1/azure-live-fire-soc)
 
 ---
 
-### Threat Detection & Network Security
-- **IDS / IPS:**  
-  - Suricata  
-  - Snort  
-- **Firewalls & Network Security:**  
-  - pfSense  
-- Network traffic inspection and rule-based detection
+### 📧 Phishing Threat Intelligence, Detection & Response
+Full SOC-style investigation of a real phishing campaign impersonating Google Security Alerts.
 
----
-
-### Threat Intelligence & Analysis
-- VirusTotal (URL, file, and infrastructure reputation)  
-- ANY.RUN (sandbox analysis & behavioral validation)  
-- URLScan.io, WHOIS, DNS & infrastructure enrichment  
-- MITRE ATT&CK Framework (mapping, detection alignment)
-
----
-
-### Offensive Security & Web Application Testing
-- Burp Suite (web proxy, request analysis, vulnerability testing)  
-- OWASP ZAP (web application security testing)  
-- WebGoat (OWASP Top 10 practice labs)  
-- File upload testing, injection testing, misconfiguration analysis
-
----
-
-### Endpoint & EDR (Conceptual & Exposure)
-- CrowdStrike Falcon (EDR concepts, detection logic understanding)
-- Endpoint telemetry awareness and alert context analysis
-
----
-
-### Operating Systems & Platforms
-- Linux (Ubuntu, Kali Linux)  
-- Windows (security event awareness & log concepts)
-
----
-
-### Networking & Traffic Analysis
-- Wireshark (packet capture and protocol analysis)
-- Firewall rule testing and traffic filtering
-
----
-
-### Development, Scripting & Documentation
-- Git & GitHub (project documentation, version control)
-- CSV-based data handling for SIEM ingestion
-- Technical writing & SOC documentation
-- Markdown & Mermaid diagrams
-
----
-
-## Tool Philosophy
-I use tools as **decision-support systems**, not decision-makers.  
-My focus is on:
-- Correct interpretation of alerts  
-- Reducing false positives  
-- Aligning detections to attacker behavior  
-- Translating findings into response actions
-
-
----
-
-## Featured & Notable Work
-
-### Phishing Threat Intelligence, Detection & Response
-A full SOC-style investigation of a real-world phishing campaign impersonating Google Security Alerts.
-
-**Highlights:**
 - Email header analysis (SPF, DKIM, DMARC)
-- Sandbox validation with analyst-driven interpretation
-- Threat intelligence enrichment (VirusTotal)
-- MITRE ATT&CK mapping
-- SOC-style Splunk dashboards
-- Detection logic and incident response playbooks
+- Sandbox validation (ANY.RUN) and enrichment (VirusTotal)
+- MITRE ATT&CK mapping and Splunk dashboards
+- Detection logic and incident response playbook
 
-👉 **Repository:**  
-[Phishing Threat Intelligence & Detection Project](https://github.com/Ibrahim-Idris1/Phishing-Email-Analysis-Project)
+🔗 [Phishing Threat Intelligence & Detection Project](https://github.com/Ibrahim-Idris1/Phishing-Email-Analysis-Project)
 
 ---
 
-### **Automated Brute Force Detection & Response (SIEM + SOAR)**
+### ⚙️ Automated Brute Force Detection & Response (SIEM + SOAR)
+An enterprise-style automation workflow built entirely with free and open-source tools, designed for resource-constrained SMEs.
 
-Designed and implemented a **real-world SOAR workflow** showing how a **Small-to-Medium Enterprise (SME)** can achieve **enterprise-grade security automation** using free and open-source tools.
+**Flow:** `Detect (Splunk) → Ingest (Shuffle) → Enrich (AbuseIPDB) → Case (TheHive) → Respond`
 
-**What this project demonstrates:**
-- SSH brute-force **detection using Splunk SIEM**
-- Automated alert ingestion via **Shuffle SOAR**
-- Threat intelligence enrichment (AbuseIPDB)
-- **Automatic case creation and management in TheHive**
-- End-to-end SOC workflow: **Detect → Enrich → Case → Respond**
+- SSH brute-force detection from Linux auth logs
+- Automated enrichment and case creation
+- Time-to-detection under 10 minutes
 
-**Key impact:**
-- Time-to-detection: **< 10 minutes**
-- Automated triage & enrichment
-- SOC-ready investigation workflow tailored for **resource-constrained SMEs**
-
-**Technologies:**  
-Splunk (SIEM), Shuffle (SOAR), TheHive (Case Management), Linux Auth Logs, AbuseIPDB
-
-🔗 **Repository:**  
-[SME-SOAR-Blueprint – Automated Brute Force Detection & Response](https://github.com/Ibrahim-Idris1/mini-soc)
-
-
-### Penetration Testing & Web Security
-- Performed security testing on multiple web applications
-- Identified and validated client-side injection vulnerabilities
-- Discovered a **valid (duplicate) critical bug** on TikTok’s web infrastructure
-- Experience testing file upload functionality, JavaScript injection, and misconfigurations
+🔗 [SME-SOAR-Blueprint](https://github.com/Ibrahim-Idris1/mini-soc)
 
 ---
 
-### SOC & Blue Team Projects
-- Built SOC dashboards using log data and IOCs
-- Created correlation logic for phishing-related indicators
-- Practiced alert triage and incident documentation
-- Designed detection-to-response workflows aligned with MITRE ATT&CK
+## Skills & Tooling
+
+| Area | Tools |
+|---|---|
+| **SIEM** | Microsoft Sentinel, Splunk Enterprise (SPL, dashboards, detections), Wazuh |
+| **SOAR / Case Mgmt** | Shuffle, TheHive, Cortex XSOAR |
+| **Cloud** | Microsoft Azure |
+| **Network Detection** | Suricata, Snort, pfSense, Wireshark |
+| **Threat Intelligence** | VirusTotal, ANY.RUN, URLScan.io, AbuseIPDB, WHOIS/DNS, MITRE ATT&CK |
+| **Web Security** | Burp Suite, OWASP ZAP, WebGoat |
+| **Platforms** | Linux (Ubuntu, Kali), Windows |
+| **Endpoint (conceptual)** | CrowdStrike Falcon |
+| **Workflow** | Git/GitHub, Markdown, Mermaid, technical writing |
 
 ---
 
-### Security Labs & Learning Projects
-- OWASP Top 10 vulnerability analysis using WebGoat
-- Network traffic inspection using Wireshark
-- Firewall configuration and testing on Linux
-- Log analysis and normalization exercises
+## Core Focus
 
-
----
-
-## Community & Leadership
-- Founder / Lead at a small cybersecurity-focused startup
-- Experience teaching and mentoring students in cybersecurity
-- Content creator focused on cybersecurity awareness and learning
-- Campus Ambassador (Cowrywise)
+- SOC operations, alert triage and incident response
+- Detection engineering and alert logic
+- Building SOC pipelines and playbooks
+- Cloud security monitoring
+- Phishing and email threat investigation
+- Threat intelligence and IOC analysis
 
 ---
 
-## Current Focus
-- SOC analyst skill development
-- Detection engineering & alert logic
-- Email security & phishing-resistant controls
-- Threat hunting fundamentals
-- Completing projects before starting new ones (discipline & depth)
+## Security Research
+
+- Tested multiple web applications and validated client-side injection issues
+- Reported a valid critical bug on TikTok's web infrastructure (duplicate)
+- Experience with file upload testing, JavaScript injection, and misconfiguration analysis
 
 ---
 
-## How I Think About Security
-I approach cybersecurity with an analyst mindset:
-- Tools assist — **judgement decides**
+## Education & Community
+
+I believe one of the best ways to strengthen the security ecosystem is to bring more informed, well-trained people into it.
+
+- Cybersecurity educator: breaking down complex concepts and guiding beginners toward the right learning paths
+- Founder / Lead at a small cybersecurity startup
+- Cybersecurity content creator
+- Campus Ambassador, Cowrywise
+
+---
+
+## How I Work
+
+- Tools assist, **judgement decides**
 - Detection without response is incomplete
-- False positives must be investigated, not ignored
+- False positives get investigated, not ignored
 - Documentation is as important as detection
 
 ---
 
-## 🤝 Let’s Connect
-I am open to **SOC analyst roles, internships, scholarships, mentorship, and collaborative projects**.
+<div align="center">
 
-- 💼 **LinkedIn:**  
-  https://www.linkedin.com/in/ibrahim-idris-b5712a371/
-- 📧 **Email:**  
-  ibrahimidris.security@gmail.com *(update if needed)*
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/ibrahim-idris-b5712a371/) · [Email](mailto:ibrahimidris.security@gmail.com)
 
----
-
-## 📌 Personal Statement
-> “I don’t just want to find vulnerabilities — I want to understand threats, detect them early, and respond effectively.”
-
-I am committed to continuous learning and building security solutions that are **practical, ethical, and aligned with real SOC environments**.
+</div>
